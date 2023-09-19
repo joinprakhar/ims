@@ -1,0 +1,15 @@
+center details
+center = {
+    center name - string;
+    center id - string;
+    owner name - string;
+    mabile - number;
+    address - array of object having place, city, district, state, pincode;
+    email - string;
+    registratiion - string;
+    validity - string;
+    accessRight1 - string;
+    accessRight2 - string;
+    accessRight3 - string;
+    branch - array of object having id and name, address, city, district, state, pincode;
+}
